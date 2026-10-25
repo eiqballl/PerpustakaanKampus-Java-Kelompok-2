@@ -9,7 +9,7 @@ Program Java sederhana untuk mengelola perpustakaan kampus seperti data koleksi 
 - ***Angkatan:*** 2025
 - ***Kelompok:*** 2 
 
-## Anggota Kelompok Canopy
+## Anggota Kelompok 2
 1. **Iqbal Nurriz Ramadhan** - 2509116067 - B
 2. **Muhammad Fahriel** - 2509116050 - B
 3. **Alya Aulia** - 2509116060 - B
