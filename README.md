@@ -10,11 +10,11 @@ Program Java sederhana untuk mengelola perpustakaan kampus seperti data koleksi 
 - ***Kelompok:*** 2 Canopy
 
 ## Anggota Kelompok Canopy
-1. **Muhammad Fahriel** - 2509116050 - B
-2. **Iqbal Nurriz Ramadhan** - 2509116067 - B
-3. **Alya Aulia** - 250911 - B
-4. **Nabila Viviana** - 250911 - C
-5. **Dapa Arkhabista** - 25091160 - A
+1. **Iqbal Nurriz Ramadhan** - 2509116067 - B
+2. **Muhammad Fahriel** - 2509116050 - B
+3. **Alya Aulia** - 2509116060 - B
+4. **Nabila Viviana Asri** - 2509116098 - C
+5. **Dapa Arkhabista** - 2509116018 - A
 
 ## Fitur Program
 - Lihat daftar kategori buku
