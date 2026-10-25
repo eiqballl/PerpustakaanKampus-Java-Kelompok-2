@@ -7,7 +7,7 @@ Program Java sederhana untuk mengelola perpustakaan kampus seperti data koleksi 
 - ***Dosen Pengampu:*** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
 - ***Program Studi:*** Sistem Informasi
 - ***Angkatan:*** 2025
-- ***Kelompok:*** 2 Canopy
+- ***Kelompok:*** 2 
 
 ## Anggota Kelompok Canopy
 1. **Iqbal Nurriz Ramadhan** - 2509116067 - B
